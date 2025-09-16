@@ -1,0 +1,367 @@
+.desktop3-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.desktop3-desktop3 {
+  width: 100%;
+  height: 3958px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.desktop3-frame20 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 291px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.desktop3-rectangle32 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 291px;
+  position: absolute;
+}
+ 
+.desktop3-ellipse6 {
+  top: 87px;
+  left: 48px;
+  width: 120px;
+  height: 120px;
+  position: absolute;
+}
+ 
+.desktop3-text10 {
+  top: 73px;
+  left: 211px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 120px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop3-rectangle119 {
+  top: 431px;
+  left: 108px;
+  width: 1234px;
+  height: 209px;
+  position: absolute;
+}
+ 
+.desktop3-text11 {
+  top: 442px;
+  left: 308px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 128px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Gentium Book Plus;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop3-rectangle120 {
+  top: 2662px;
+  left: 108px;
+  width: 1234px;
+  height: 133px;
+  position: absolute;
+}
+ 
+.desktop3-text12 {
+  top: 2662px;
+  left: 347px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Gentium Book Plus;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop3-text13 {
+  top: 730px;
+  left: 395px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Gentium Book Plus;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop3-text14 {
+  top: 876px;
+  left: 395px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Gentium Book Plus;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop3-rectangle124 {
+  top: 749px;
+  left: 134px;
+  width: 186px;
+  height: 122px;
+  position: absolute;
+}
+ 
+.desktop3-rectangle125 {
+  top: 749px;
+  left: 134px;
+  width: 186px;
+  height: 122px;
+  position: absolute;
+}
+ 
+.desktop3-rectangle126 {
+  top: 915px;
+  left: 134px;
+  width: 186px;
+  height: 122px;
+  position: absolute;
+}
+ 
+.desktop3-rectangle127 {
+  top: 1081px;
+  left: 134px;
+  width: 186px;
+  height: 122px;
+  position: absolute;
+}
+ 
+.desktop3-rectangle128 {
+  top: 1247px;
+  left: 134px;
+  width: 186px;
+  height: 122px;
+  position: absolute;
+}
+ 
+.desktop3-rectangle129 {
+  top: 1413px;
+  left: 134px;
+  width: 186px;
+  height: 122px;
+  position: absolute;
+}
+ 
+.desktop3-rectangle130 {
+  top: 1579px;
+  left: 134px;
+  width: 186px;
+  height: 122px;
+  position: absolute;
+}
+ 
+.desktop3-rectangle131 {
+  top: 1745px;
+  left: 134px;
+  width: 186px;
+  height: 122px;
+  position: absolute;
+}
+ 
+.desktop3-rectangle132 {
+  top: 1911px;
+  left: 134px;
+  width: 186px;
+  height: 122px;
+  position: absolute;
+}
+ 
+.desktop3-rectangle133 {
+  top: 2077px;
+  left: 134px;
+  width: 186px;
+  height: 122px;
+  position: absolute;
+}
+ 
+.desktop3-rectangle134 {
+  top: 2243px;
+  left: 134px;
+  width: 186px;
+  height: 122px;
+  position: absolute;
+}
+ 
+.desktop3-text15 {
+  top: 1062px;
+  left: 390px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Gentium Book Plus;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop3-text16 {
+  top: 1228px;
+  left: 395px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Gentium Book Plus;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop3-text17 {
+  top: 1394px;
+  left: 377px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Gentium Book Plus;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop3-text18 {
+  top: 1560px;
+  left: 402px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Gentium Book Plus;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop3-text19 {
+  top: 1735px;
+  left: 375px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Gentium Book Plus;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop3-text20 {
+  top: 1911px;
+  left: 395px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Gentium Book Plus;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop3-text21 {
+  top: 2067px;
+  left: 389px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Gentium Book Plus;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop3-text22 {
+  top: 2223px;
+  left: 410px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Gentium Book Plus;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop3-rectangle135 {
+  top: 2866px;
+  left: 142px;
+  width: 1173px;
+  height: 826px;
+  position: absolute;
+}

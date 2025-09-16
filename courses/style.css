@@ -1,0 +1,1195 @@
+.course-page {
+  background-color: #ffffff;
+  display: grid;
+  justify-items: center;
+  align-items: start;
+  width: 100vw;
+}
+
+.course-page .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 7359px;
+}
+
+.course-page .overlap {
+  position: relative;
+  width: 2353px;
+  height: 7414px;
+  top: -159px;
+  left: -463px;
+}
+
+.course-page .ellipse {
+  position: absolute;
+  width: 900px;
+  height: 900px;
+  top: 0;
+  left: 1453px;
+  
+  background-color: #ba70f0;
+  border-radius: 450px;
+}
+
+.course-page .frame {
+  position: absolute;
+  width: 1440px;
+  height: 291px;
+  top: 159px;
+  left: 463px;
+  background-color: #21042a;
+}
+
+.course-page .img {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  top: 87px;
+  left: 48px;
+  object-fit: cover;
+}
+
+.course-page .text-wrapper {
+  position: absolute;
+  top: 72px;
+  left: 211px;
+  font-family: "Impact-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 120px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .div {
+  position: absolute;
+  width: 900px;
+  height: 900px;
+  top: 3639px;
+  left: 0;
+  background-color: #ba70f0;
+  border-radius: 450px;
+}
+
+.course-page .group {
+  top: 521px;
+  position: absolute;
+  width: 1297px;
+  height: 3325px;
+  left: 541px;
+}
+
+.course-page .frame-2 {
+  position: relative;
+  height: 3325px;
+  overflow: hidden;
+}
+
+.course-page .overlap-group {
+  position: absolute;
+  width: 1233px;
+  height: 3237px;
+  top: 88px;
+  left: 26px;
+}
+
+.course-page .rectangle {
+  position: absolute;
+  width: 1233px;
+  height: 3181px;
+  
+  background-color: #21042a;
+  top: 56px;
+  left: 0;
+}
+.course-page .overlap-group .rectangle{
+    border-radius: 20px;
+}
+.course-page .rectangle-2 {
+  position: absolute;
+  width: 1089px;
+  height: 112px;
+  top: 0;
+  left: 73px;
+  border: 5px solid #21042a;
+  background-color: #ba70f0;
+  border-radius: 100px;
+}
+
+.course-page .text-wrapper-2 {
+  position: absolute;
+  width: 314px;
+  top: 18px;
+  left: 146px;
+  font-family: "Franklin Gothic Demi-Regular", Helvetica;
+  font-weight: 400;
+  color: #040404;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .rectangle-3 {
+  position: absolute;
+  width: 1089px;
+  height: 805px;
+  top: 290px;
+  left: 73px;
+  background-color: #ba70f0;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-4 {
+  position: absolute;
+  width: 1089px;
+  height: 805px;
+  top: 1277px;
+  left: 76px;
+  background-color: #ba70f0;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-5 {
+  position: absolute;
+  width: 1089px;
+  height: 882px;
+  top: 2264px;
+  left: 66px;
+  background-color: #ba70f0;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-6 {
+  position: absolute;
+  width: 1089px;
+  height: 120px;
+  top: 290px;
+  left: 73px;
+  background-color: #faefef;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-7 {
+  position: absolute;
+  width: 1089px;
+  height: 120px;
+  top: 1277px;
+  left: 76px;
+  background-color: #fff5f5;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-8 {
+  position: absolute;
+  width: 1089px;
+  height: 120px;
+  top: 2264px;
+  left: 66px;
+  background-color: #fdf5f5;
+  border-radius: 15px;
+}
+
+.course-page .text-wrapper-3 {
+  position: absolute;
+  top: 2282px;
+  left: 145px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #010101;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .rectangle-9 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 484px;
+  left: 157px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .p {
+  position: absolute;
+  top: 514px;
+  left: 188px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .rectangle-10 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 633px;
+  left: 157px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-11 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 2571px;
+  left: 161px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .first-year {
+  position: absolute;
+  top: 2600px;
+  left: 442px;
+  font-family: "Gentium Book Plus-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .rectangle-12 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 2848px;
+  left: 161px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .second-year {
+  position: absolute;
+  top: 2877px;
+  left: 449px;
+  font-family: "Gentium Book Plus-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .rectangle-13 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 782px;
+  left: 157px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .rounded-rectangle {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 931px;
+  left: 157px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .text-wrapper-4 {
+  position: absolute;
+  top: 663px;
+  left: 404px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .power-electronics {
+  position: absolute;
+  top: 812px;
+  left: 358px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .text-wrapper-5 {
+  position: absolute;
+  top: 311px;
+  left: 145px;
+  -webkit-text-stroke: 1px #807373;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #030303;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .text-wrapper-6 {
+  position: absolute;
+  top: 1295px;
+  left: 146px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #010101;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .text-wrapper-7 {
+  position: absolute;
+  top: 961px;
+  left: 333px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .rectangle-14 {
+  position: absolute;
+  width: 1079px;
+  height: 694px;
+  top: 1388px;
+  left: 76px;
+  object-fit: cover;
+}
+
+.course-page .text-on-a-path {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: -39px;
+  left: -3323px;
+}
+
+.course-page .frame-wrapper {
+  top: 4089px;
+  position: absolute;
+  width: 1297px;
+  height: 3325px;
+  left: 541px;
+}
+
+.course-page .rectangle-15 {
+  position: absolute;
+  width: 1089px;
+  height: 805px;
+  top: 301px;
+  left: 73px;
+  background-color: #ba70f0;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-16 {
+  position: absolute;
+  width: 1089px;
+  height: 120px;
+  top: 290px;
+  left: 73px;
+  background-color: #fef8f8;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-17 {
+  position: absolute;
+  width: 1089px;
+  height: 120px;
+  top: 1277px;
+  left: 76px;
+  background-color: #fcf3f3;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-18 {
+  position: absolute;
+  width: 1089px;
+  height: 120px;
+  top: 2264px;
+  left: 66px;
+  background-color: #fbf3f3;
+  border-radius: 15px;
+}
+
+.course-page .text-wrapper-8 {
+  position: absolute;
+  top: 514px;
+  left: 489px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .rectangle-19 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 2467px;
+  left: 160px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-20 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 2647px;
+  left: 160px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-21 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 2827px;
+  left: 157px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-22 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 2976px;
+  left: 157px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .text-wrapper-9 {
+  position: absolute;
+  top: 665px;
+  left: 417px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .text-wrapper-10 {
+  position: absolute;
+  top: 807px;
+  left: 478px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .text-wrapper-11 {
+  position: absolute;
+  top: 961px;
+  left: 479px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .rectangle-23 {
+  position: absolute;
+  width: 1082px;
+  height: 686px;
+  top: 1396px;
+  left: 73px;
+  object-fit: cover;
+}
+
+.course-page .third-year {
+  position: absolute;
+  top: 2856px;
+  left: 495px;
+  font-family: "Gentium Book Plus-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .first-year-s-s {
+  position: absolute;
+  top: 2496px;
+  left: 474px;
+  font-family: "Gentium Book Plus-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .second-year-s-s {
+  position: absolute;
+  top: 2676px;
+  left: 474px;
+  font-family: "Gentium Book Plus-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .fourth-year {
+  position: absolute;
+  top: 3006px;
+  left: 479px;
+  font-family: "Gentium Book Plus-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .text-on-a-path-2 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: -3607px;
+  left: -3323px;
+}
+/* Original CSS code should be injected here */
+
+.course-page {
+  background-color: #ffffff;
+  display: grid;
+  justify-items: center;
+  align-items: start;
+  width: 100vw;
+}
+
+.course-page .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 7359px;
+}
+
+.course-page .overlap {
+  position: relative;
+  width: 2353px;
+  height: 7414px;
+  top: -159px;
+  left: -463px;
+}
+
+.course-page .ellipse {
+  position: absolute;
+  width: 900px;
+  height: 900px;
+  top: 0;
+  left: 1453px;
+  background-color: #ba70f0;
+  border-radius: 450px;
+}
+
+.course-page .frame {
+  position: absolute;
+  width: 1440px;
+  height: 291px;
+  top: 159px;
+  left: 463px;
+  background-color: #21042a;
+}
+
+.course-page .img {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  top: 87px;
+  left: 48px;
+  object-fit: cover;
+}
+
+.course-page .text-wrapper {
+  position: absolute;
+  top: 72px;
+  left: 211px;
+  font-family: "Impact-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 120px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .div {
+  position: absolute;
+  width: 900px;
+  height: 900px;
+  top: 3639px;
+  left: 0;
+  background-color: #ba70f0;
+  border-radius: 450px;
+}
+
+.course-page .group {
+  top: 521px;
+  position: absolute;
+  width: 1297px;
+  height: 3325px;
+  left: 541px;
+}
+
+.course-page .frame-2 {
+  position: relative;
+  height: 3325px;
+  overflow: hidden;
+}
+
+.course-page .overlap-group {
+  position: absolute;
+  width: 1233px;
+  height: 3237px;
+  top: 88px;
+  left: 26px;
+}
+
+.course-page .rectangle {
+  position: absolute;
+  width: 1233px;
+  height: 3181px;
+  top: 56px;
+  left: 0;
+}
+
+.course-page .rectangle-2 {
+  position: absolute;
+  width: 1089px;
+  height: 112px;
+  top: 0;
+  left: 73px;
+  background-color: #ba70f0;
+  border: 2px solid;
+  border-radius: 100px;
+}
+
+.course-page .text-wrapper-2 {
+  position: absolute;
+  width: 314px;
+  top: 18px;
+  left: 146px;
+  font-family: "Franklin Gothic Demi-Regular", Helvetica;
+  font-weight: 400;
+  color: #040404;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .rectangle-3 {
+  position: absolute;
+  width: 1089px;
+  height: 805px;
+  top: 290px;
+  left: 73px;
+  background-color: #ba70f0;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-4 {
+  position: absolute;
+  width: 1089px;
+  height: 805px;
+  top: 1277px;
+  left: 76px;
+  background-color: #ba70f0;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-5 {
+  position: absolute;
+  width: 1089px;
+  height: 882px;
+  top: 2264px;
+  left: 66px;
+  background-color: #ba70f0;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-6 {
+  position: absolute;
+  width: 1089px;
+  height: 120px;
+  top: 290px;
+  left: 73px;
+  background-color: #b6b6b6;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-7 {
+  position: absolute;
+  width: 1089px;
+  height: 120px;
+  top: 1277px;
+  left: 76px;
+  background-color: #b6b6b6;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-8 {
+  position: absolute;
+  width: 1089px;
+  height: 120px;
+  top: 2264px;
+  left: 66px;
+  background-color: #b6b6b6;
+  border-radius: 15px;
+}
+
+.course-page .text-wrapper-3 {
+  position: absolute;
+  top: 2282px;
+  left: 145px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #010101;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .rectangle-9 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 484px;
+  left: 157px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .p {
+  position: absolute;
+  top: 514px;
+  left: 188px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .rectangle-10 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 633px;
+  left: 157px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-11 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 2571px;
+  left: 161px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .first-year {
+  position: absolute;
+  top: 2600px;
+  left: 442px;
+  font-family: "Gentium Book Plus-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .rectangle-12 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 2848px;
+  left: 161px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .second-year {
+  position: absolute;
+  top: 2877px;
+  left: 449px;
+  font-family: "Gentium Book Plus-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .rectangle-13 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 782px;
+  left: 157px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .rounded-rectangle {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 931px;
+  left: 157px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .text-wrapper-4 {
+  position: absolute;
+  top: 663px;
+  left: 404px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .power-electronics {
+  position: absolute;
+  top: 812px;
+  left: 358px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .text-wrapper-5 {
+  position: absolute;
+  top: 311px;
+  left: 145px;
+  -webkit-text-stroke: 1px #807373;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #030303;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .text-wrapper-6 {
+  position: absolute;
+  top: 1295px;
+  left: 146px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #010101;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .text-wrapper-7 {
+  position: absolute;
+  top: 961px;
+  left: 333px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .rectangle-14 {
+  position: absolute;
+  width: 1079px;
+  height: 694px;
+  top: 1388px;
+  left: 76px;
+  object-fit: cover;
+}
+
+.course-page .text-on-a-path {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: -39px;
+  left: -3323px;
+}
+
+.course-page .frame-wrapper {
+  top: 4089px;
+  position: absolute;
+  width: 1297px;
+  height: 3325px;
+  left: 541px;
+}
+
+.course-page .rectangle-15 {
+  position: absolute;
+  width: 1089px;
+  height: 805px;
+  top: 301px;
+  left: 73px;
+  background-color: #ba70f0;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-16 {
+  position: absolute;
+  width: 1089px;
+  height: 120px;
+  top: 290px;
+  left: 73px;
+  background-color: #b6b6b6;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-17 {
+  position: absolute;
+  width: 1089px;
+  height: 120px;
+  top: 1277px;
+  left: 76px;
+  background-color: #b6b6b6;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-18 {
+  position: absolute;
+  width: 1089px;
+  height: 120px;
+  top: 2264px;
+  left: 66px;
+  background-color: #b6b6b6;
+  border-radius: 15px;
+}
+
+.course-page .text-wrapper-8 {
+  position: absolute;
+  top: 514px;
+  left: 489px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .rectangle-19 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 2467px;
+  left: 160px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-20 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 2647px;
+  left: 160px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-21 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 2827px;
+  left: 157px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .rectangle-22 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: 2976px;
+  left: 157px;
+  background-color: #bf5555;
+  border-radius: 15px;
+}
+
+.course-page .text-wrapper-9 {
+  position: absolute;
+  top: 665px;
+  left: 417px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .text-wrapper-10 {
+  position: absolute;
+  top: 807px;
+  left: 478px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .text-wrapper-11 {
+  position: absolute;
+  top: 961px;
+  left: 479px;
+  font-family: "Frank Ruhl Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .rectangle-23 {
+  position: absolute;
+  width: 1082px;
+  height: 686px;
+  top: 1396px;
+  left: 73px;
+  object-fit: cover;
+}
+
+.course-page .third-year {
+  position: absolute;
+  top: 2856px;
+  left: 495px;
+  font-family: "Gentium Book Plus-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .first-year-s-s {
+  position: absolute;
+  top: 2496px;
+  left: 474px;
+  font-family: "Gentium Book Plus-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .second-year-s-s {
+  position: absolute;
+  top: 2676px;
+  left: 474px;
+  font-family: "Gentium Book Plus-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .fourth-year {
+  position: absolute;
+  top: 3006px;
+  left: 479px;
+  font-family: "Gentium Book Plus-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.course-page .text-on-a-path-2 {
+  position: absolute;
+  width: 922px;
+  height: 120px;
+  top: -3607px;
+  left: -3323px;
+}
+.course-page .first-year a{
+    
+    text-align: center;
+    color: #faefef;
+}
+
+.course-page .first-year-s-s a{
+    text-align: center;
+    color: #faefef;
+}
+.course-page .second-year a{
+    text-align: center;
+    color: #faefef;
+}
+.course-page .second-year-s-s a{
+    text-align: center;
+    color: #faefef;
+}
+.course-page .third-year a{
+    text-align: center;
+    color: #faefef;
+}
+.course-page .first-year a:hover{
+    
+}
+
+.course-page .first-year-s-s a{
+    text-align: center;
+    color: #faefef;
+}
+.course-page .second-year a{
+    text-align: center;
+    color: #faefef;
+}
+.course-page .second-year-s-s a{
+    text-align: center;
+    color: #faefef;
+}
+.course-page .third-year a{
+    text-align: center;
+    color: #faefef;
+}

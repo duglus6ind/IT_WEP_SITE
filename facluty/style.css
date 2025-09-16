@@ -1,0 +1,1622 @@
+.faculy-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.faculy-faculy {
+  width: 100%;
+  height: 3145px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.faculy-ellipse17 {
+  top: -159px;
+  left: 858px;
+  width: 900px;
+  height: 900px;
+  position: absolute;
+}
+ 
+.faculy-frame15 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 291px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle32 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 291px;
+  position: absolute;
+}
+ 
+.faculy-ellipse6 {
+  top: 87px;
+  left: 48px;
+  width: 120px;
+  height: 120px;
+  position: absolute;
+}
+ 
+.faculy-text10 {
+  top: 73px;
+  left: 211px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 120px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-rectangle59 {
+  top: 504px;
+  left: 132px;
+  width: 1176px;
+  height: 2438px;
+  position: absolute;
+}
+ 
+.faculy-rectangle48 {
+  top: 458px;
+  left: 132px;
+  width: 1176px;
+  height: 112px;
+  position: absolute;
+  border-radius: 100px;
+}
+ 
+.faculy-group101 {
+  top: 698px;
+  left: 188px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-group910 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2110 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7810 {
+  top: 43px;
+  left: 8px;
+  width: 313px;
+  height: 423px;
+  position: absolute;
+  border-color: rgba(218, 123, 15, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 20px;
+}
+ 
+.faculy-text11 {
+  top: 295px;
+  left: 110px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-text12 {
+  top: 313px;
+  left: 105px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-ellipse1810 {
+  top: 141px;
+  left: 90px;
+  width: 145px;
+  height: 145px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+ 
+.faculy-group20 {
+  top: 347px;
+  left: 84px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2210 {
+  top: 0px;
+  left: 0px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7910 {
+  top: 8px;
+  left: 10px;
+  width: 137px;
+  height: 22px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.faculy-text13 {
+  top: 8px;
+  left: 52px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-group12 {
+  top: 1196px;
+  left: 188px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-group911 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2111 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7811 {
+  top: 43px;
+  left: 8px;
+  width: 313px;
+  height: 423px;
+  position: absolute;
+  border-color: rgba(218, 123, 15, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 20px;
+}
+ 
+.faculy-text14 {
+  top: 291px;
+  left: 57px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-text15 {
+  top: 313px;
+  left: 105px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-ellipse1811 {
+  top: 141px;
+  left: 90px;
+  width: 145px;
+  height: 145px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+ 
+.faculy-group211 {
+  top: 347px;
+  left: 90px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2211 {
+  top: 0px;
+  left: 0px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7911 {
+  top: 8px;
+  left: 10px;
+  width: 137px;
+  height: 22px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.faculy-text16 {
+  top: 8px;
+  left: 52px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-group15 {
+  top: 1700px;
+  left: 185px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-group912 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2112 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7812 {
+  top: 43px;
+  left: 8px;
+  width: 313px;
+  height: 423px;
+  position: absolute;
+  border-color: rgba(218, 123, 15, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 20px;
+}
+ 
+.faculy-text17 {
+  top: 290px;
+  left: 129px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-text18 {
+  top: 312px;
+  left: 133px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-ellipse1812 {
+  top: 141px;
+  left: 90px;
+  width: 145px;
+  height: 145px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+ 
+.faculy-group221 {
+  top: 346px;
+  left: 90px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2212 {
+  top: 0px;
+  left: 0px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7912 {
+  top: 8px;
+  left: 10px;
+  width: 137px;
+  height: 22px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.faculy-text19 {
+  top: 8px;
+  left: 52px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-group18 {
+  top: 2190px;
+  left: 420px;
+  width: 343px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-group913 {
+  top: 0px;
+  left: 0px;
+  width: 343px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2113 {
+  top: 0px;
+  left: 0px;
+  width: 343px;
+  height: 520px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7813 {
+  top: 43px;
+  left: 8px;
+  width: 313px;
+  height: 423px;
+  position: absolute;
+  border-color: rgba(218, 123, 15, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 20px;
+}
+ 
+.faculy-text20 {
+  top: 290px;
+  left: 129px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-text21 {
+  top: 312px;
+  left: 115px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-ellipse1813 {
+  top: 141px;
+  left: 90px;
+  width: 145px;
+  height: 145px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+ 
+.faculy-group231 {
+  top: 356px;
+  left: 89px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2213 {
+  top: 0px;
+  left: 0px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7913 {
+  top: 8px;
+  left: 10px;
+  width: 137px;
+  height: 22px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.faculy-text22 {
+  top: 8px;
+  left: 52px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-group16 {
+  top: 1695px;
+  left: 554px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-group914 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2114 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7814 {
+  top: 43px;
+  left: 8px;
+  width: 313px;
+  height: 423px;
+  position: absolute;
+  border-color: rgba(218, 123, 15, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 20px;
+}
+ 
+.faculy-text23 {
+  top: 295px;
+  left: 110px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-text24 {
+  top: 313px;
+  left: 84px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-ellipse1814 {
+  top: 141px;
+  left: 90px;
+  width: 145px;
+  height: 145px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+ 
+.faculy-group232 {
+  top: 349px;
+  left: 90px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2214 {
+  top: 0px;
+  left: 0px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7914 {
+  top: 8px;
+  left: 10px;
+  width: 137px;
+  height: 22px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.faculy-text25 {
+  top: 8px;
+  left: 52px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-group19 {
+  top: 2185px;
+  left: 769px;
+  width: 380px;
+  height: 519px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-group915 {
+  top: 0px;
+  left: 0px;
+  width: 380px;
+  height: 519px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2115 {
+  top: 0px;
+  left: 0px;
+  width: 380px;
+  height: 519px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7815 {
+  top: 48px;
+  left: 13px;
+  width: 313px;
+  height: 423px;
+  position: absolute;
+  border-color: rgba(218, 123, 15, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 20px;
+}
+ 
+.faculy-text26 {
+  top: 290px;
+  left: 144px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-text27 {
+  top: 311px;
+  left: 103px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-ellipse1815 {
+  top: 141px;
+  left: 90px;
+  width: 145px;
+  height: 145px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+ 
+.faculy-group241 {
+  top: 354px;
+  left: 90px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2215 {
+  top: 0px;
+  left: 0px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7915 {
+  top: 8px;
+  left: 10px;
+  width: 137px;
+  height: 22px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.faculy-text28 {
+  top: 8px;
+  left: 52px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-group17 {
+  top: 1700px;
+  left: 931px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-group916 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2116 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7816 {
+  top: 43px;
+  left: 8px;
+  width: 313px;
+  height: 423px;
+  position: absolute;
+  border-color: rgba(218, 123, 15, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 20px;
+}
+ 
+.faculy-text29 {
+  top: 312px;
+  left: 91px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-ellipse1816 {
+  top: 141px;
+  left: 90px;
+  width: 145px;
+  height: 145px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+ 
+.faculy-text30 {
+  top: 354px;
+  left: 110px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-group242 {
+  top: 336px;
+  left: 91px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2216 {
+  top: 0px;
+  left: 0px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7916 {
+  top: 8px;
+  left: 10px;
+  width: 137px;
+  height: 22px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.faculy-text31 {
+  top: 8px;
+  left: 52px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-group13 {
+  top: 1196px;
+  left: 562px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-group917 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2117 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7817 {
+  top: 43px;
+  left: 8px;
+  width: 313px;
+  height: 423px;
+  position: absolute;
+  border-color: rgba(218, 123, 15, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 20px;
+}
+ 
+.faculy-text32 {
+  top: 295px;
+  left: 106px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-text33 {
+  top: 313px;
+  left: 105px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-ellipse1817 {
+  top: 141px;
+  left: 90px;
+  width: 145px;
+  height: 145px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+ 
+.faculy-group222 {
+  top: 349px;
+  left: 90px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2217 {
+  top: 0px;
+  left: 0px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7917 {
+  top: 8px;
+  left: 10px;
+  width: 137px;
+  height: 22px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.faculy-text34 {
+  top: 8px;
+  left: 52px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-group14 {
+  top: 1196px;
+  left: 931px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-group918 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2118 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7818 {
+  top: 39px;
+  left: 11px;
+  width: 313px;
+  height: 423px;
+  position: absolute;
+  border-color: rgba(218, 123, 15, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 20px;
+}
+ 
+.faculy-text35 {
+  top: 313px;
+  left: 137px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-ellipse1818 {
+  top: 141px;
+  left: 90px;
+  width: 145px;
+  height: 145px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+ 
+.faculy-text36 {
+  top: 295px;
+  left: 110px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-frame23 {
+  top: 349px;
+  left: 90px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7918 {
+  top: 8px;
+  left: 10px;
+  width: 137px;
+  height: 22px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.faculy-text37 {
+  top: 8px;
+  left: 52px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-group11 {
+  top: 698px;
+  left: 931px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-group919 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2119 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7819 {
+  top: 43px;
+  left: 8px;
+  width: 313px;
+  height: 423px;
+  position: absolute;
+  border-color: rgba(218, 123, 15, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 20px;
+}
+ 
+.faculy-text38 {
+  top: 295px;
+  left: 104px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-text39 {
+  top: 313px;
+  left: 105px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-ellipse1819 {
+  top: 141px;
+  left: 90px;
+  width: 145px;
+  height: 145px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+ 
+.faculy-group223 {
+  top: 348px;
+  left: 90px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2218 {
+  top: 0px;
+  left: 0px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7919 {
+  top: 8px;
+  left: 10px;
+  width: 137px;
+  height: 22px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.faculy-text40 {
+  top: 8px;
+  left: 52px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-group102 {
+  top: 698px;
+  left: 570px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2120 {
+  top: 0px;
+  left: 0px;
+  width: 377px;
+  height: 520px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7820 {
+  top: 43px;
+  left: 8px;
+  width: 313px;
+  height: 423px;
+  position: absolute;
+  border-color: rgba(218, 123, 15, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 20px;
+}
+ 
+.faculy-text41 {
+  top: 295px;
+  left: 110px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-text42 {
+  top: 313px;
+  left: 105px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-ellipse1820 {
+  top: 141px;
+  left: 90px;
+  width: 145px;
+  height: 145px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 2px;
+}
+ 
+.faculy-rectangle7920 {
+  top: 356px;
+  left: 72px;
+  width: 137px;
+  height: 22px;
+  position: absolute;
+  border-radius: 10px;
+}
+ 
+.faculy-group212 {
+  top: 348px;
+  left: 90px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.faculy-frame2219 {
+  top: 0px;
+  left: 0px;
+  width: 166px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-rectangle7921 {
+  top: 8px;
+  left: 10px;
+  width: 137px;
+  height: 22px;
+  position: absolute;
+  border-radius: 5px;
+}
+ 
+.faculy-text43 {
+  top: 8px;
+  left: 52px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-text44 {
+  top: 455px;
+  left: 222px;
+  color: rgba(16, 15, 15, 1);
+  height: auto;
+  position: absolute;
+  font-size: 96px;
+  font-style: Regular;
+  text-align: left;
+  font-family: IM FELL Great Primer;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.faculy-frame2121 {
+  top: 739px;
+  left: 185px;
+  width: 414px;
+  height: 619px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.faculy-frame2122 {
+  top: 739px;
+  left: 185px;
+  width: 414px;
+  height: 619px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
